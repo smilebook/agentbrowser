@@ -1,4 +1,4 @@
 agentbrowser
 ============
 
-Web Browser based on Qt
+Web Browser based on Qt, only for my Graduate Design.
