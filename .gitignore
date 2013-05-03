@@ -25,6 +25,7 @@ Makefile
 *.vcxproj*
 *.sdf
 *.sln
+*.suo
 
 Debug
 Release
