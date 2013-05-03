@@ -22,7 +22,7 @@ Makefile
 
 # VS project files
 
-*.vcxproj*
+*.vcxproj.*
 *.sdf
 *.sln
 *.suo
