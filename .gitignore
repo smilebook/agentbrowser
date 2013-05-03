@@ -9,6 +9,7 @@
 *.so
 *.dll
 *.dylib
+*.swp
 
 # Qt-es
 
@@ -18,3 +19,18 @@ moc_*.cpp
 qrc_*.cpp
 Makefile
 *-build-*
+
+# VS project files
+
+*.vcxproj*
+*.sdf
+*.sln
+
+Debug
+Release
+GeneratedFiles
+ipch
+Win32
+
+# Ctag files
+tags
